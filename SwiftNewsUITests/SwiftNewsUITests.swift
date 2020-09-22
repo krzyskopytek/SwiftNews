@@ -2,7 +2,7 @@
 //  SwiftNewsUITests.swift
 //  SwiftNewsUITests
 //
-//  Created by Krzysztof Kopytek on 2020-09-18.
+//  Created by Krzysztof Kopytek on 2020-09-21.
 //  Copyright © 2020 Kopytek. All rights reserved.
 //
 
